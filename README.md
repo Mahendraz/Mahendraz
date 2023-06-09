@@ -1,2 +1,0 @@
-Mahendra Zulqarnaen
-Blockchain Engineer
