@@ -1,3 +1,2 @@
-Mahendra Zulqarnaen
-Smart Contract Engineer
+Blockchain Engineer
 
