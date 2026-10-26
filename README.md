@@ -42,7 +42,7 @@
 - **Reliable engineering:** clear architecture, security-conscious defaults, and testable business logic.
 - **Curiosity:** exploring full-stack development, smart contracts, and workflow automation.
 
-I'm also exploring **[Hearty Bridge](https://github.com/Mahendraz/HBridge)**, a work-in-progress collaboration platform for families and therapists. My earlier projects explored Solidity and Web3 application patterns.
+My earlier projects explored Solidity and Web3 application patterns. I enjoy applying those lessons to practical full-stack products.
 
 ---
 
