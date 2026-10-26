@@ -42,7 +42,7 @@
 - **Reliable engineering:** clear architecture, security-conscious defaults, and testable business logic.
 - **Curiosity:** exploring full-stack development, smart contracts, and workflow automation.
 
-My earlier Web3 explorations include [Uniswap V3 token swaps](https://github.com/Mahendraz/tokenSwap_UniswapV3) and [ERC-20 contract factories](https://github.com/Mahendraz/ERC20_Factory).
+I'm also exploring **[Hearty Bridge](https://github.com/Mahendraz/HBridge)**, a work-in-progress collaboration platform for families and therapists. My earlier projects explored Solidity and Web3 application patterns.
 
 ---
 
