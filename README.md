@@ -20,6 +20,14 @@
 
 **[InWebsite](https://inwebsite.online/)** is where most of my work goes now: websites and small SaaS products for businesses. Most of the code is private, so the live products are the best portfolio.
 
+### Public code
+
+| Repo | What it is |
+| --- | --- |
+| [Reentrancy-Tester](https://github.com/Mahendraz/Reentrancy-Tester) | Solidity reentrancy attack test harness |
+| [ERC20_Factory](https://github.com/Mahendraz/ERC20_Factory) | Factory contract that deploys ERC20 tokens (Hardhat, TypeScript) |
+| [tokenSwap_UniswapV3](https://github.com/Mahendraz/tokenSwap_UniswapV3) | Token swap through the Uniswap V3 router |
+
 ### Tools & technologies
 
 <p>
