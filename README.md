@@ -11,18 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://photobooth.inwebsite.online/"><img src="https://img.shields.io/badge/Try_InWebBooth-0f766e?style=for-the-badge" alt="Try InWebBooth" /></a>
   <a href="https://github.com/Mahendraz?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-1e40af?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 </p>
 
 ---
 
-### Featured work
+### Currently building
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| 📸 **[InWebBooth](https://github.com/Mahendraz/photoboots)** · [Try the app](https://photobooth.inwebsite.online/) | A browser-based photobooth with flexible layouts, filters, stickers, and high-resolution exports. Photo editing happens in the browser. | React, TypeScript, Vite, Cloudflare Workers & D1 |
-| 📦 **[StockFlow](https://github.com/Mahendraz/StockFlow)** | An inventory and invoicing app with authentication, transaction-safe stock updates, and automated tests. | Next.js, TypeScript, MongoDB, Vitest |
+**[InWebsite](https://inwebsite.online/)** is where most of my work goes now: websites and small SaaS products for businesses. Most of the code is private, so the live products are the best portfolio.
 
 ### Tools & technologies
 
